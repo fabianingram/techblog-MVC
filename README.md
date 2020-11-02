@@ -16,9 +16,6 @@ Git clone the repo to your local hardware. Ensure the following node packages ar
 ## Usage 
 To interact with the website, first type "heroku open" in the command line or, follow the listed heroku app link below and paste/go in your browser. Once at the  site, start the server in your command line by typing "npm start" or "node server.js", and the Heroku site will be ready to interact with.
 
-## Heroku website link:
-https://rocky-lake-14135.herokuapp.com/ 
-
 
     
 ## Credits 
