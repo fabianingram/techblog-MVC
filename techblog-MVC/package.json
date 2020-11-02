@@ -20,13 +20,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/galacticnative/techblog-MVC.git"
+    "url": "git+https://github.comfabianingram/techblog-MVC.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/galacticnative/techblog-MVC/issues"
+    "url": "https://github.com/fabianingram/techblog-MVC/issues"
   },
-  "homepage": "https://github.com/galacticnative/techblog-MVC#readme"
+  "homepage": "https://github.com/fabianingram/techblog-MVC#readme"
 }
